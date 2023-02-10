@@ -2,10 +2,7 @@ Projeto Individual- Modelagem de dados (Módulo 4 Resilia)
 
 A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
-O QUE É PARA FAZER?
 Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
-
-Perguntas sobre o Modelo:
 
 ⇨ Existem outras entidades além dessas três?
 Sim, foram acrescentadas mais 4 entidades. Sendo elas: Professor, Matricula, Aula e Nota.
